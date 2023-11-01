@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sign</string>
+    <string name="login">login</string>
+    <string name="your_name">your_name</string>
+    <string name="password">password</string>
+    <string name="your_password">your_password</string>
+    <string name="go">go</string>
+    <string name="username">username</string>
+</resources>
